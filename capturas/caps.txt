@@ -1,0 +1,8 @@
+Capturas:
+
+01-post-crear.png
+02-get-todas.png
+03-get-por-id.png
+04-put-actualizar.png
+05-delete-eliminar.png
+06-error-validacion.png
